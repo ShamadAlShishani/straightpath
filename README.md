@@ -1,2 +1,2 @@
 # straightpath
-tell you path and straighten it together
+tell your path and straighten it together
